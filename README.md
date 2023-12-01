@@ -1,4 +1,5 @@
 # CS-321-Project
+This is forked meant for running the CI Pipeline
 ## Group Members
 - Bryce Roe
 - Daniel Jagga
